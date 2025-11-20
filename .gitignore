@@ -1,6 +1,7 @@
 # Python
 __pycache__/
 *.pyc
+*.txt
 
 # macOS
 .DS_Store
